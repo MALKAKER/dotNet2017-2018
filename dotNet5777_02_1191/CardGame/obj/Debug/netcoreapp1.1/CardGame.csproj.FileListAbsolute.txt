@@ -1,0 +1,10 @@
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\bin\Debug\netcoreapp1.1\CardGame.deps.json
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\bin\Debug\netcoreapp1.1\CardGame.runtimeconfig.json
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\bin\Debug\netcoreapp1.1\CardGame.runtimeconfig.dev.json
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\bin\Debug\netcoreapp1.1\CardGame.dll
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\bin\Debug\netcoreapp1.1\CardGame.pdb
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\obj\Debug\netcoreapp1.1\CardGame.csprojResolveAssemblyReference.cache
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\obj\Debug\netcoreapp1.1\CardGame.csproj.CoreCompileInputs.cache
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\obj\Debug\netcoreapp1.1\CardGame.AssemblyInfo.cs
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\obj\Debug\netcoreapp1.1\CardGame.dll
+c:\users\malki\documents\visual studio 2017\Projects\dotNet5777_02_1191\CardGame\obj\Debug\netcoreapp1.1\CardGame.pdb
